@@ -70,12 +70,12 @@ header .container-fluid
 .hamburger
 {
     font-size: 2.3em;
-    color: #f2dede;
+    color: #FFF;
 }
 
 .hamburger:hover
 {
-  color: #FFF;
+  color: #f2dede;
   cursor: pointer;
 }
 
